@@ -1,0 +1,18 @@
+{
+  "name": "cv",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.2.0-beta.6",
+    "axios": "^0.21.1",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.10"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
